@@ -1,0 +1,25 @@
+.section {
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .section h2 {
+    color: #007bff;
+    margin-bottom: 10px;
+  }
+  
+  .section-content h3 {
+    font-size: 1.2em;
+    margin: 0;
+  }
+  
+  .section-content p {
+    font-style: italic;
+    color: #555;
+  }
+  
+  .section-content ul {
+    list-style-type: square;
+    margin-left: 20px;
+  }
+  
